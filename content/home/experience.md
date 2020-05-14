@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Munich"
   date_start = "2020-01-20"
-  date_end = "Present"
+  date_end = ""
   description = """Customer Interaction and Sales Data Science Team
   Responsibilities include: developing AI solutions that enhance the customer experience.
   """
