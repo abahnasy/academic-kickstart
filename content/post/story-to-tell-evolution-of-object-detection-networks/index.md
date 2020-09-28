@@ -20,8 +20,6 @@ image:
   focal_point: ""
   preview_only: false
 
-## draft for the upcoming long article about the story of object detectors
-
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -29,3 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+
+## Content
