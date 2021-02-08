@@ -53,6 +53,6 @@ date_format = "Jan 2006"
   location = "Berlin, Germany"
   date_start = "2015-08-01"
   date_end = "2016-09-01"
-  description = """Designing Digital control for magentic ball levitation system."""
+  description = """Designing Digital controller for magentic ball levitation system."""
 
 +++
